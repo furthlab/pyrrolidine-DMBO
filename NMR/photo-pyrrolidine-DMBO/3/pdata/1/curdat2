@@ -1,0 +1,33 @@
+##TITLE= Parameter file, TopSpin 3.6.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2025-05-22 10:26:27.748 +0200  nmrsu@BRUKER
+$$ C:/Bruker/TopSpin3.6.5/prog/curdir/changer/inmrchanger/Dec05-2024-1045-nmrsu/16/16.371/data/nmr/CA8393_residue_3/3/pdata/1/curdat2
+$$ process C:\Bruker\TopSpin3.6.5\prog\mod\xwish3.exe
+##$CUREXP= <>
+##$DATPATH= <>
+##$DATPATH2= <C:/iconnmr/Alfred>
+##$DATPATH3= <C:/iconnmr/Alfred>
+##$DETAILS= <>
+##$DU= </u>
+##$DU2= <C:\iconnmr>
+##$DU3= <>
+##$EXPNO= 1
+##$EXPNO2= 1
+##$EXPNO3= 0
+##$NAME= <>
+##$NAME2= <CA8393_residue_3>
+##$NAME3= <>
+##$PROCNO= 1
+##$PROCNO2= 1
+##$PROCNO3= 1
+##$SCALE2= 1
+##$SCALE3= 1
+##$TYPE= <nmr>
+##$USER= <>
+##$USER2= <Alfred>
+##$USER3= <>
+##END=

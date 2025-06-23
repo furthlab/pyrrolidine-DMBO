@@ -1,0 +1,29 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ Y:/iconnmr/Alfred/CA8393_residue_3/2/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-05-22 16:46:39.166 +0200>,<nmrsu>,<BRUKER>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID 'c54f47d0-3718-11f0-a786-5065f32a999d'
+       started at 2025-05-22 16:26:37.795 +0200,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2025-05-22 16:46:39.163 +0200
+
+       configuration hash MD5:
+       20 AD 9F 95 CC 45 23 7C CE 54 52 39 A4 0A EF 3B
+       data hash MD5: 64K
+       47 96 6B 3A 11 E5 7C 4C 66 59 2C E8 DC C1 54 53>)
+(   2,<2025-05-22 16:46:39.254 +0200>,<nmrsu>,<BRUKER>,<audit>,<TopSpin 3.6.5>,
+      <user comment:
+       ICON-NMR User ID: Alfred
+       data hash MD5: 64K
+       47 96 6B 3A 11 E5 7C 4C 66 59 2C E8 DC C1 54 53>)
+(   3,<2025-05-22 16:47:58.170 +0200>,<nmrsu>,<BRUKER>,<dirdata>,<TopSpin 3.6.5>,
+      <wrpa from 1 2 "CA8393_residue_3" "C:/iconnmr/Alfred"
+       data hash MD5: 64K
+       47 96 6B 3A 11 E5 7C 4C 66 59 2C E8 DC C1 54 53>)
+##END=
+
+$$ hash MD5
+$$ A6 DF 96 04 28 4B 1B 3A 30 7D 08 FD 57 BF 39 61

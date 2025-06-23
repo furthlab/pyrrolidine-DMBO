@@ -1,0 +1,42 @@
+##TITLE= Audit trail, TopSpin 3.6.5
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ Y:/iconnmr/Alfred/CA8392_F30-F50/2/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2025-05-06 19:07:42.613 +0200>,<nmrsu>,<BRUKER>,<go4>,<TopSpin 3.6.5>,
+      <created by zg on data set with UUID 'd38f0c9e-2a99-11f0-a593-5065f32a999d'
+       started at 2025-05-06 18:47:41.669 +0200,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2025-05-06 19:07:42.608 +0200
+
+       configuration hash MD5:
+       20 AD 9F 95 CC 45 23 7C CE 54 52 39 A4 0A EF 3B
+       data hash MD5: 64K
+       91 CF 6C 98 20 27 86 48 2F 2F CE 1B 0E 96 CE A6>)
+(   2,<2025-05-06 19:07:42.710 +0200>,<nmrsu>,<BRUKER>,<audit>,<TopSpin 3.6.5>,
+      <user comment:
+       ICON-NMR User ID: Alfred
+       data hash MD5: 64K
+       91 CF 6C 98 20 27 86 48 2F 2F CE 1B 0E 96 CE A6>)
+(   3,<2025-05-06 19:07:43.892 +0200>,<nmrsu>,<BRUKER>,<proc1d>,<TopSpin 3.6.5>,
+      <Start of raw data processing
+       ef LB = 1 FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       61 B9 21 D7 C9 5A E0 68 DC CB 2E 6C 1E 45 7C F7>)
+(   4,<2025-05-06 19:07:44.014 +0200>,<nmrsu>,<BRUKER>,<proc1d>,<TopSpin 3.6.5>,
+      <apk 
+       data hash MD5: 32K
+       6F 53 37 50 BC C9 71 1D BC 92 93 9A B5 45 6F 8B>)
+(   5,<2025-05-06 19:07:44.165 +0200>,<nmrsu>,<BRUKER>,<proc1d>,<TopSpin 3.6.5>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       9C 5D 5B 5A 73 6B F0 59 9E F7 D7 42 E1 0C 6C 1D>)
+(   6,<2025-05-06 19:09:02.927 +0200>,<nmrsu>,<BRUKER>,<dirdata>,<TopSpin 3.6.5>,
+      <wrpa from 1 2 "CA8392_F30-F50" "C:/iconnmr/Alfred"
+       data hash MD5: 32K
+       9C 5D 5B 5A 73 6B F0 59 9E F7 D7 42 E1 0C 6C 1D>)
+##END=
+
+$$ hash MD5
+$$ A9 3E 7F C4 E7 48 0F 38 91 6B 6C 94 4E 0B A3 0E

@@ -1,0 +1,24 @@
+##TITLE= Parameter file, TopSpin 3.6.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2025-05-22 11:48:51.654 +0200  nmrsu@BRUKER
+$$ Y:/iconnmr/Alfred/CA8393_residue_3/3/acqu2s
+$$ process C:\Bruker\TopSpin3.6.5\prog\mod\dirdata.exe
+##$ACQT0= 0
+##$BF1= 100.612768526
+##$FnILOOP= 0
+##$FnMODE= 6
+##$NUC1= <13C>
+##$NusJSP= 0
+##$NusT2= 1
+##$NusTD= 128
+##$O1= 7545.958
+##$ProjAngle= 0
+##$SFO1= 100.620314484
+##$SW= 170.177242627836
+##$SW_h= 17123.2876712329
+##$TD= 128
+##END=

@@ -1,0 +1,40 @@
+
+Current Data Parameters
+NAME     CA8393_residue_3              
+EXPNO                 1              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20250522              
+Time              11.26 h            
+INSTRUM           spect              
+PROBHD   Z116098_0473 (              
+PULPROG            zg.2              
+TD                32768              
+SOLVENT           CDCl3              
+NS                   32              
+DS                    2              
+SWH            6393.862 Hz           
+FIDRES         0.390250 Hz           
+AQ            2.5624576 sec          
+RG                54.36              
+DW               78.200 usec         
+DE                 6.50 usec         
+TE                298.0 K            
+D1           4.00000000 sec          
+TD0                   1              
+SFO1        400.1324008 MHz          
+NUC1                 1H              
+CNST0        30.0000000              
+P0                 3.33 usec         
+P1                10.00 usec         
+PLW1        16.85600090 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          400.1300348 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 0.30 Hz           
+GB                    0              
+PC                 1.00              

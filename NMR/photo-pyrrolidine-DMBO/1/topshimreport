@@ -1,0 +1,51 @@
+
+New TopShim run:
+
+version = topshim 2.0.0
+date = 2025-05-22
+time = 11:19:23.581
+command = topshim  fine convcomp tunea
+
+FINE SHIMMING
+
+Parameters:
+
+probe = Z116098_0473
+solvent = CDCl3
+shim nucleus = 2H
+nucleus optimised for = 1H
+o1p (from lock) = 7.24 ppm
+
+Results:
+
+
+1D Shimming:
+Iteration  1: FWHM Before= 0.2 Hz, Target= 0.4 Hz, After= 0.9 Hz
+Iteration  2: FWHM Before= 0.9 Hz, Target= 0.7 Hz, After= 0.8 Hz
+Iteration  3: FWHM Before= 0.8 Hz, Target= 1.0 Hz, After= 1.6 Hz
+Iteration  4: FWHM Before= 1.6 Hz, Target= 1.3 Hz, After= 0.3 Hz
+Shim succeeded
+
+Lineshape quality factor (1D spectrum, spinning) = 0.915
+
+
+Performing tune after shimming
+tune lock level increase = 1.0
+
+shim changes: 
+Z	-3702
+Z2	-2849
+Z3	-3679
+Z4	+4783
+Z5	+4739
+X	+20
+XZ	+4
+Y	+4
+YZ	+1
+
+duration = 3 min 9 sec
+completed successfully
+finished Thu May 22 11:22:31 2025
+
+
+========================================================================

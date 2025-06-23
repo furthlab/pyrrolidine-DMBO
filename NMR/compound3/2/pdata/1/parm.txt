@@ -1,0 +1,48 @@
+
+Current Data Parameters
+NAME     CA8392_F30-F50              
+EXPNO                 2              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20250506              
+Time              19.07 h            
+INSTRUM           spect              
+PROBHD   Z116098_0473 (              
+PULPROG          zgpg.2              
+TD                65536              
+SOLVENT           CDCl3              
+NS                  512              
+DS                    4              
+SWH           26041.666 Hz           
+FIDRES         0.794729 Hz           
+AQ            1.2582912 sec          
+RG               196.55              
+DW               19.200 usec         
+DE                 6.50 usec         
+TE                298.0 K            
+D1           1.00000000 sec          
+D11          0.03000000 sec          
+TD0                   1              
+SFO1        100.6248421 MHz          
+NUC1                13C              
+CNST0        30.0000000              
+P0                 3.33 usec         
+P1                10.00 usec         
+PLW1        75.01999664 W            
+SFO2        400.1316005 MHz          
+NUC2                 1H              
+CPDPRG[2        waltz16              
+PCPD2             90.00 usec         
+PLW2        16.85600090 W            
+PLW12        0.20810001 W            
+PLW13        0.10467000 W            
+
+F2 - Processing parameters
+SI                32768              
+SF          100.6127685 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 1.00 Hz           
+GB                    0              
+PC                 1.40              

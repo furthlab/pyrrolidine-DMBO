@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2025-05-06T19:07:44.215+02:00" expNo="2" name="CA8392_F30-F50" owner="" procNo="1" source="C:/iconnmr/Alfred">
+      <PeakPickDetails>F1=249.415298ppm, F2=-9.415336ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="159.056656" intensity="6.833169e+000" type="0"/>
+    <Peak1D F1="129.497116" intensity="1.587118e+000" type="0"/>
+    <Peak1D F1="128.631470" intensity="1.212091e+001" type="0"/>
+    <Peak1D F1="121.194931" intensity="1.137315e+001" type="0"/>
+    <Peak1D F1="114.469604" intensity="1.188483e+001" type="0"/>
+    <Peak1D F1="113.266983" intensity="1.591895e+000" type="0"/>
+    <Peak1D F1="111.880409" intensity="8.516068e+000" type="0"/>
+    <Peak1D F1="77.352669" intensity="4.037645e+001" type="0"/>
+    <Peak1D F1="77.035095" intensity="4.181546e+001" type="0"/>
+    <Peak1D F1="76.717926" intensity="4.147342e+001" type="0"/>
+    <Peak1D F1="61.197819" intensity="5.434358e+000" type="0"/>
+    <Peak1D F1="55.210480" intensity="2.130953e+000" type="0"/>
+    <Peak1D F1="55.107006" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="49.213036" intensity="1.096805e+001" type="0"/>
+    <Peak1D F1="42.407299" intensity="3.540612e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

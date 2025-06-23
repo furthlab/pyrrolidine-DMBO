@@ -1,0 +1,33 @@
+##TITLE= Parameter file, TopSpin 3.6.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2025-04-29 12:26:15.675 +0200  nmrsu@BRUKER
+$$ C:/iconnmr/Alfred/CA8391/4/pdata/1/curdat2
+$$ process C:\Bruker\TopSpin3.6.5\prog\au\bin\proc_2dplxf2m.exe
+##$CUREXP= <>
+##$DATPATH= <>
+##$DATPATH2= <C:/iconnmr/Alfred>
+##$DATPATH3= <C:/iconnmr/Alfred>
+##$DETAILS= <>
+##$DU= </u>
+##$DU2= <C:\iconnmr>
+##$DU3= <>
+##$EXPNO= 1
+##$EXPNO2= 1
+##$EXPNO3= 4
+##$NAME= <>
+##$NAME2= <CA8391>
+##$NAME3= <CA8391>
+##$PROCNO= 1
+##$PROCNO2= 1
+##$PROCNO3= 99
+##$SCALE2= 1
+##$SCALE3= 1
+##$TYPE= <nmr>
+##$USER= <>
+##$USER2= <Alfred>
+##$USER3= <>
+##END=
