@@ -2,7 +2,6 @@
 
 **Data and analysis code for**  
 **“Pyrrolidine-Fused Dibenzocyclooctyne Challenges Predicted Dual Click Reactivity”**  
-**Submitted to Chemical Science**  
 🔗 https://github.com/furthlab/pyrrolidine-DMBO
 
 ---
