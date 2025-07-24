@@ -19,10 +19,10 @@
  ShowTerminalCarbonLabels="no"
  ShowNonTerminalCarbonLabels="no"
  HideImplicitHydrogens="no"
- LabelFont="71"
+ LabelFont="59"
  LabelSize="10"
  LabelFace="96"
- CaptionFont="71"
+ CaptionFont="59"
  CaptionSize="10"
  HashSpacing="2.50"
  MarginWidth="1.60"
@@ -76,11 +76,11 @@
 <color r="0" g="1" b="1"/>
 <color r="0" g="0" b="1"/>
 <color r="1" g="0" b="1"/>
-<color r="1" g="0.5843" b="0.1569"/>
+<color r="1" g="0.5804" b="0.1569"/>
 </colortable><fonttable>
-<font id="71" charset="x-mac-roman" name="Arial"/>
+<font id="59" charset="x-mac-roman" name="Arial"/>
 </fonttable><page
- id="1242"
+ id="1244"
  BoundingBox="0 0 1080 720"
  HeaderPosition="36"
  FooterPosition="36"
@@ -89,11 +89,11 @@
  WidthPages="2"
 ><group
  id="1228"
- BoundingBox="242.17 286.28 317.72 311.36"
+ BoundingBox="242.17 286.28 317.73 311.36"
  Z="630"
 ><fragment
  id="1229"
- BoundingBox="242.17 286.28 317.72 311.36"
+ BoundingBox="242.17 286.28 317.73 311.36"
  Z="631"
 ><n
  id="1230"
@@ -116,7 +116,7 @@
  BoundingBox="267.16 304.20 272.80 311.36"
  color="8"
  LabelJustification="Left"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="1232"
  p="257.51 300.62"
  Z="634"
@@ -129,11 +129,11 @@
  AtomID="374"
 ><t
  p="253.90 304.62"
- BoundingBox="254.66 293.88 265.09 304.62"
+ BoundingBox="254.66 293.88 265.08 304.62"
  color="8"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="71" size="10" color="8" face="96">N+</s></t></n><n
+><s font="59" size="10" color="8" face="96">N+</s></t></n><n
  id="1233"
  p="245.02 293.44"
  Z="635"
@@ -151,7 +151,7 @@
  LabelJustification="Right"
  Justification="Right"
  LabelAlignment="Right"
-><s font="71" size="10" color="8" face="96">N-</s></t></n><n
+><s font="59" size="10" color="8" face="96">N-</s></t></n><n
  id="1237"
  p="294.95 307.78"
  Z="639"
@@ -167,11 +167,11 @@
  AS="N"
  AtomID="377"
 ><t
- p="303.53 304.23"
- BoundingBox="304.01 296.94 317.72 304.35"
+ p="303.53 304.22"
+ BoundingBox="304.01 296.94 317.73 304.34"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="71" size="10" color="0" face="96">OH</s></t></n><b
+><s font="59" size="10" color="0" face="96">OH</s></t></n><b
  id="1234"
  Z="636"
  B="1230"
@@ -329,7 +329,7 @@
  p="528.96 417.58"
  BoundingBox="529.72 410.42 535.36 417.58"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">N</s></t></n><n
+><s font="59" size="10" color="0" face="96">N</s></t></n><n
  id="274"
  p="544.22 405.53"
  Z="359"
@@ -347,9 +347,9 @@
  AtomID="104"
 ><t
  p="528.96 431.98"
- BoundingBox="529.74 424.82 536.05 431.98"
+ BoundingBox="529.75 424.82 536.05 431.98"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">R</s></t></n><n
+><s font="59" size="10" color="0" face="96">R</s></t></n><n
  id="276"
  p="532.57 344.60"
  Z="366"
@@ -365,10 +365,10 @@
  AS="N"
  AtomID="106"
 ><t
- p="528.68 333.85"
- BoundingBox="529.16 326.56 536.01 333.97"
+ p="528.68 333.84"
+ BoundingBox="529.16 326.56 536.01 333.96"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="278"
  p="477.77 388.86"
  Z="371"
@@ -379,9 +379,9 @@
  AtomID="107"
 ><t
  p="473.88 392.50"
- BoundingBox="474.37 385.21 481.21 392.62"
+ BoundingBox="474.36 385.22 481.21 392.62"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="279"
  p="587.36 388.86"
  Z="373"
@@ -392,9 +392,9 @@
  AtomID="108"
 ><t
  p="583.47 392.50"
- BoundingBox="583.96 385.21 590.80 392.62"
+ BoundingBox="583.95 385.22 590.80 392.62"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="280"
  p="465.30 381.66"
  Z="375"
@@ -604,12 +604,12 @@
  E="281"
  BS="N"
 /><ColoredMolecularArea
- id="1243"
+ id="1245"
  bgcolor="10"
  BasisObjects="288 305 306"
 /></fragment><fragment
  id="327"
- BoundingBox="717.57 352.72 852.40 430.52"
+ BoundingBox="717.57 352.73 852.40 430.52"
  Z="381"
 ><n
  id="328"
@@ -730,7 +730,7 @@
  p="781.37 416.12"
  BoundingBox="782.13 408.96 787.77 416.12"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">N</s></t></n><n
+><s font="59" size="10" color="0" face="96">N</s></t></n><n
  id="346"
  p="796.63 404.08"
  Z="416"
@@ -748,9 +748,9 @@
  AtomID="131"
 ><t
  p="781.37 430.52"
- BoundingBox="782.16 423.36 788.47 430.52"
+ BoundingBox="782.16 423.36 788.46 430.52"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">R</s></t></n><n
+><s font="59" size="10" color="0" face="96">R</s></t></n><n
  id="350"
  p="730.19 387.40"
  Z="423"
@@ -763,7 +763,7 @@
  p="726.30 391.04"
  BoundingBox="726.78 383.76 733.63 391.16"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="351"
  p="839.78 387.40"
  Z="425"
@@ -776,7 +776,7 @@
  p="835.89 391.04"
  BoundingBox="836.37 383.76 843.22 391.16"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="352"
  p="717.72 380.20"
  Z="427"
@@ -968,7 +968,7 @@
  BS="N"
 /></fragment><fragment
  id="385"
- BoundingBox="208.23 354.27 343.06 432.06"
+ BoundingBox="208.23 354.27 343.06 432.07"
  Z="433"
 ><n
  id="386"
@@ -1086,10 +1086,10 @@
  AS="N"
  AtomID="153"
 ><t
- p="272.03 417.66"
- BoundingBox="272.79 410.51 278.43 417.66"
+ p="272.03 417.67"
+ BoundingBox="272.79 410.51 278.43 417.67"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">N</s></t></n><n
+><s font="59" size="10" color="0" face="96">N</s></t></n><n
  id="404"
  p="287.29 405.62"
  Z="468"
@@ -1106,10 +1106,10 @@
  GenericNickname="R"
  AtomID="155"
 ><t
- p="272.03 432.06"
- BoundingBox="272.82 424.91 279.13 432.06"
+ p="272.03 432.07"
+ BoundingBox="272.82 424.91 279.12 432.07"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">R</s></t></n><n
+><s font="59" size="10" color="0" face="96">R</s></t></n><n
  id="406"
  p="220.85 388.94"
  Z="475"
@@ -1119,10 +1119,10 @@
  AS="N"
  AtomID="156"
 ><t
- p="216.96 392.59"
- BoundingBox="217.44 385.30 224.29 392.71"
+ p="216.96 392.58"
+ BoundingBox="217.44 385.30 224.29 392.70"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="407"
  p="330.44 388.94"
  Z="477"
@@ -1132,10 +1132,10 @@
  AS="N"
  AtomID="157"
 ><t
- p="326.55 392.59"
- BoundingBox="327.03 385.30 333.88 392.71"
+ p="326.55 392.58"
+ BoundingBox="327.03 385.30 333.88 392.70"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="408"
  p="208.38 381.74"
  Z="479"
@@ -1448,7 +1448,7 @@
  p="972.43 419.32"
  BoundingBox="973.19 412.16 978.83 419.32"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">N</s></t></n><n
+><s font="59" size="10" color="0" face="96">N</s></t></n><n
  id="456"
  p="987.69 407.28"
  Z="520"
@@ -1466,9 +1466,9 @@
  AtomID="179"
 ><t
  p="972.43 433.72"
- BoundingBox="973.21 426.56 979.52 433.72"
+ BoundingBox="973.22 426.56 979.52 433.72"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">R</s></t></n><n
+><s font="59" size="10" color="0" face="96">R</s></t></n><n
  id="458"
  p="921.24 390.60"
  Z="527"
@@ -1478,10 +1478,10 @@
  AS="N"
  AtomID="180"
 ><t
- p="917.36 394.24"
- BoundingBox="917.84 386.96 924.68 394.37"
+ p="917.35 394.24"
+ BoundingBox="917.83 386.96 924.68 394.36"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="459"
  p="1030.83 390.60"
  Z="529"
@@ -1492,9 +1492,9 @@
  AtomID="181"
 ><t
  p="1026.94 394.24"
- BoundingBox="1027.43 386.96 1034.27 394.37"
+ BoundingBox="1027.42 386.96 1034.27 394.36"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="460"
  p="908.77 383.40"
  Z="531"
@@ -1528,7 +1528,7 @@
  BoundingBox="980.39 330.30 986.03 337.46"
  color="8"
  LabelJustification="Left"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="493"
  p="968.84 333.88"
  Z="537"
@@ -1543,7 +1543,7 @@
  BoundingBox="965.99 330.30 971.63 337.46"
  color="8"
  LabelJustification="Left"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="495"
  p="961.64 346.35"
  Z="538"
@@ -1914,10 +1914,10 @@
  AS="N"
  AtomID="207"
 ><t
- p="71 416.05"
+ p="71.01 416.05"
  BoundingBox="71.77 408.89 77.41 416.05"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">N</s></t></n><n
+><s font="59" size="10" color="0" face="96">N</s></t></n><n
  id="619"
  p="86.27 404.01"
  Z="585"
@@ -1934,10 +1934,10 @@
  GenericNickname="R"
  AtomID="209"
 ><t
- p="71 430.45"
- BoundingBox="71.79 423.29 78.10 430.45"
+ p="71.01 430.45"
+ BoundingBox="71.80 423.29 78.10 430.45"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">R</s></t></n><n
+><s font="59" size="10" color="0" face="96">R</s></t></n><n
  id="621"
  p="19.82 387.33"
  Z="592"
@@ -1948,9 +1948,9 @@
  AtomID="210"
 ><t
  p="15.93 390.97"
- BoundingBox="16.41 383.69 23.26 391.10"
+ BoundingBox="16.41 383.69 23.26 391.09"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="622"
  p="129.41 387.33"
  Z="594"
@@ -1961,9 +1961,9 @@
  AtomID="211"
 ><t
  p="125.52 390.97"
- BoundingBox="126 383.69 132.85 391.10"
+ BoundingBox="126 383.69 132.85 391.09"
  LabelJustification="Left"
-><s font="71" size="10" color="0" face="96">O</s></t></n><n
+><s font="59" size="10" color="0" face="96">O</s></t></n><n
  id="623"
  p="7.35 380.13"
  Z="596"
@@ -1986,11 +1986,11 @@
  AS="N"
  AtomID="214"
 ><t
- p="82.65 345.43"
+ p="82.66 345.43"
  BoundingBox="83.42 338.27 89.06 345.43"
  color="8"
  LabelJustification="Left"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="654"
  p="74.62 333.39"
  Z="601"
@@ -2001,11 +2001,11 @@
  AS="N"
  AtomID="215"
 ><t
- p="71 336.97"
+ p="71.01 336.97"
  BoundingBox="71.77 329.81 77.41 336.97"
  color="8"
  LabelJustification="Left"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="656"
  p="62.97 341.85"
  Z="602"
@@ -2016,12 +2016,12 @@
  AS="N"
  AtomID="216"
 ><t
- p="59.35 345.43"
+ p="59.36 345.43"
  BoundingBox="60.12 338.27 65.76 345.43"
  color="8"
  LabelJustification="Left"
  LabelAlignment="Right"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="665"
  p="98.74 334.65"
  Z="607"
@@ -2043,11 +2043,11 @@
  AS="N"
  AtomID="219"
 ><t
- p="119.79 338.30"
- BoundingBox="120.27 331.01 133.98 338.42"
+ p="119.79 338.29"
+ BoundingBox="120.27 331.01 133.99 338.41"
  LabelJustification="Left"
  LabelAlignment="Left"
-><s font="71" size="10" color="0" face="96">OH</s></t></n><b
+><s font="59" size="10" color="0" face="96">OH</s></t></n><b
  id="625"
  Z="557"
  B="601"
@@ -2274,7 +2274,7 @@
  BS="N"
 /></fragment><fragment
  id="1198"
- BoundingBox="671.18 288.23 712.34 329.38"
+ BoundingBox="671.18 288.23 712.33 329.38"
  Z="615"
 ><n
  id="1195"
@@ -2298,7 +2298,7 @@
  BoundingBox="692.64 319.14 698.28 326.30"
  color="8"
  LabelJustification="Left"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="1199"
  p="705.67 312.53"
  Z="616"
@@ -2313,7 +2313,7 @@
  BoundingBox="702.82 308.95 708.46 316.11"
  color="8"
  LabelJustification="Left"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="1201"
  p="701.94 298.62"
  Z="617"
@@ -2335,7 +2335,7 @@
  BoundingBox="685.18 291.32 690.82 298.48"
  color="8"
  LabelJustification="Left"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="1205"
  p="677.85 305.08"
  Z="619"
@@ -2350,7 +2350,7 @@
  BoundingBox="675 301.50 680.64 308.66"
  color="8"
  LabelJustification="Left"
-><s font="71" size="10" color="8" face="96">N</s></t></n><n
+><s font="59" size="10" color="8" face="96">N</s></t></n><n
  id="1213"
  p="671.39 329.17"
  Z="626"
