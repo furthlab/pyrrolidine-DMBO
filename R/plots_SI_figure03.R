@@ -9,9 +9,9 @@ read_lcms_data <- function(file_path) {
 }
 
 # Read individual datasets
-dmbo_alkyne <- read_lcms_data("LC-MS/data/CA8393_250616_alkyne_DMSO_DIPEA.txt")
-spaac_paz <- read_lcms_data("LC-MS/data/CA8393_250616_SPAAC_DMSO_DIPEA.txt")
-ieddac_MeTz <- read_lcms_data("LC-MS/data/CA8393_250616_iEDDAC_DMSO_DIPEA.txt")
+dmbo_alkyne <- read_lcms_data("raw-data/LC-MS/data/CA8393_250616_alkyne_DMSO_DIPEA.txt")
+spaac_paz <- read_lcms_data("raw-data/LC-MS/data/CA8393_250616_SPAAC_DMSO_DIPEA.txt")
+ieddac_MeTz <- read_lcms_data("raw-data/LC-MS/data/CA8393_250616_iEDDAC_DMSO_DIPEA.txt")
 
 
 # Function to create consistent LC-MS chromatogram plots

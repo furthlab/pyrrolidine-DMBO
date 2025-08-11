@@ -1,14 +1,14 @@
 # Pyrrolidine-DMBO
 
 **Data and analysis code for**  
-**“Pyrrolidine-Fused Dibenzocyclooctyne Challenges Predicted Dual Click Reactivity”**  
+**“Synthesis of Scaffold-Fused Hete- rocyclic Dibenzocyclooctynes for Photoactivatable Click Chemistry”**  
 🔗 https://github.com/furthlab/pyrrolidine-DMBO
 
 ---
 
 ## 🧪 Summary
 
-This repository contains the complete dataset, analysis scripts, and chemical structure files supporting our manuscript on the synthesis and evaluation of a pyrrolidine-fused dibenzocyclooctyne (DMBO) derivative. Contrary to predictions from computational chemistry, our results show that while azide reactivity is retained, the compound does **not** react with tetrazines—challenging existing models for dual click reactivity.
+This repository contains the complete dataset, analysis scripts, and chemical structure files supporting our manuscript on the synthesis and evaluation of a pyrrolidine-fused dibenzocyclooctyne (DMBO) derivative. 
 
 ---
 
