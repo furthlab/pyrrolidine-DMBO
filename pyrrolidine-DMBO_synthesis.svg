@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 612 93.6">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .cls-3, .cls-5 {
+        font-size: 6px;
+      }
+
+      .cls-6 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .5px;
+      }
+
+      .cls-4 {
+        font-size: 8.4px;
+      }
+
+      .cls-7 {
+        font-size: 4.5px;
+      }
+
+      .cls-7, .cls-5 {
+        font-family: ArialMT, Arial;
+      }
+
+      .cls-8 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" y="0" width="612" height="93.6"/>
+    </clipPath>
+  </defs>
+  <!-- Generator: Adobe Illustrator 28.7.8, SVG Export Plug-In . SVG Version: 1.2.0 Build 200)  -->
+  <g>
+    <g id="Layer_1">
+      <polygon points="113.7 54.6 113.5 55 122.3 55 122.1 54.6 113.7 54.6"/>
+      <polygon points="122.3 55 122.1 54.6 126.3 47.3 126.6 47.3 126.7 47.5 122.3 55"/>
+      <rect x="119.6" y="50.1" width="6.8" height=".4" transform="translate(18 131.7) rotate(-60)"/>
+      <polygon points="126.7 47.1 126.6 47.3 126.3 47.3 122.1 40 122.3 39.7 126.7 47.1"/>
+      <polygon points="113.7 39.7 113.6 39.8 113.7 40 122.1 40 122.3 39.7 113.7 39.7"/>
+      <rect x="114.5" y="41.2" width="6.8" height=".4"/>
+      <polygon points="113.4 39.8 113.6 39.8 113.7 40 109.5 47.3 109.1 47.3 113.4 39.8"/>
+      <polygon points="109.1 47.3 109.5 47.3 113.7 54.6 113.5 55 109.1 47.3"/>
+      <rect x="112.6" y="46.9" width=".4" height="6.8" transform="translate(-10 63.1) rotate(-30)"/>
+      <polygon points="126.7 47.1 126.6 47.3 126.7 47.5 135.2 47.5 135.2 47.1 126.7 47.1"/>
+      <rect x="135.2" y="45.6" width="8.6" height=".4"/>
+      <rect x="135.2" y="47.1" width="8.6" height=".4"/>
+      <rect x="135.2" y="48.7" width="8.6" height=".4"/>
+      <polygon points="143.8 47.1 143.8 47.5 152.4 47.5 152.5 47.3 152.4 47.1 143.8 47.1"/>
+      <polygon points="152.4 47.5 152.5 47.3 152.7 47.3 156.9 54.6 156.7 55 152.4 47.5"/>
+      <rect x="155.8" y="46.9" width=".4" height="6.8" transform="translate(-4.3 84.7) rotate(-30)"/>
+      <polygon points="156.9 54.6 156.7 55 165.5 55 165.3 54.6 156.9 54.6"/>
+      <polygon points="165.5 55 165.3 54.6 169.5 47.3 170 47.3 165.5 55"/>
+      <rect x="162.8" y="50.1" width="6.8" height=".4" transform="translate(39.6 169.2) rotate(-60)"/>
+      <polygon points="170 47.3 169.5 47.3 165.3 40 165.4 39.8 165.6 39.8 170 47.3"/>
+      <polygon points="156.7 39.7 156.9 40 165.3 40 165.4 39.8 165.3 39.7 156.7 39.7"/>
+      <rect x="157.7" y="41.2" width="6.8" height=".4"/>
+      <polygon points="156.7 39.7 156.9 40 152.7 47.3 152.5 47.3 152.4 47.1 156.7 39.7"/>
+      <text class="cls-5" transform="translate(106.9 34.5)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="113.7 39.7 113.6 39.8 113.4 39.8 110.7 35.2 111 35.1 113.7 39.7"/>
+      <rect x="100.6" y="32.2" width="5.6" height=".4"/>
+      <text class="cls-5" transform="translate(167.4 34.5)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="165.6 39.8 165.4 39.8 165.3 39.7 168 35.1 168.3 35.2 165.6 39.8"/>
+      <rect x="172.8" y="32.2" width="5.6" height=".4"/>
+      <polygon points="242.5 47.2 242.6 47 242.8 47 247 54.3 246.8 54.7 242.5 47.2"/>
+      <rect x="245.9" y="46.5" width=".4" height="6.8" transform="translate(8 129.7) rotate(-30)"/>
+      <polygon points="247 54.3 246.8 54.7 255.7 54.7 255.5 54.3 247 54.3"/>
+      <polygon points="255.7 54.7 255.5 54.3 259.7 47 260.1 47 255.7 54.7"/>
+      <rect x="252.9" y="49.8" width="6.8" height=".4" transform="translate(85 247.1) rotate(-60)"/>
+      <polygon points="260.1 47 259.7 47 255.5 39.7 255.6 39.5 255.8 39.5 260.1 47"/>
+      <polygon points="246.8 39.3 247 39.7 255.5 39.7 255.6 39.5 255.5 39.3 246.8 39.3"/>
+      <rect x="247.8" y="40.9" width="6.8" height=".4"/>
+      <polygon points="246.8 39.3 247 39.7 242.8 47 242.6 47 242.5 46.8 246.8 39.3"/>
+      <text class="cls-5" transform="translate(231.6 49.2)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="237 46.8 237 47.2 242.5 47.2 242.6 47 242.5 46.8 237 46.8"/>
+      <rect x="228.3" y="52" width="5.4" height=".4" transform="translate(70.4 226.2) rotate(-60)"/>
+      <polygon points="255.8 39.5 255.6 39.5 255.5 39.3 259.8 31.9 260 32.2 255.8 39.5"/>
+      <polygon points="259.8 31.9 260 32.2 268.4 32.2 268.6 31.9 259.8 31.9"/>
+      <rect x="260.8" y="33.4" width="6.8" height=".4"/>
+      <polygon points="268.4 32.2 268.6 31.9 272.9 39.3 272.8 39.5 272.6 39.5 268.4 32.2"/>
+      <polygon points="272.6 39.5 272.8 39.5 272.9 39.7 268.7 47 268.3 47 272.6 39.5"/>
+      <polygon points="268.3 47 268.7 47 272.9 54.3 272.7 54.7 268.3 47"/>
+      <rect x="271.8" y="46.5" width=".4" height="6.8" transform="translate(11.4 142.6) rotate(-30)"/>
+      <polygon points="272.9 54.3 272.7 54.7 281.6 54.7 281.4 54.3 272.9 54.3"/>
+      <polygon points="281.6 54.7 281.4 54.3 285.6 47 285.8 47 285.9 47.2 281.6 54.7"/>
+      <rect x="278.9" y="49.8" width="6.8" height=".4" transform="translate(97.9 269.5) rotate(-60)"/>
+      <polygon points="285.9 46.8 285.8 47 285.6 47 281.4 39.7 281.6 39.3 285.9 46.8"/>
+      <polygon points="272.9 39.3 272.8 39.5 272.9 39.7 281.4 39.7 281.6 39.3 272.9 39.3"/>
+      <rect x="273.7" y="40.9" width="6.8" height=".4"/>
+      <text class="cls-5" transform="translate(292.1 49.2)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="285.9 46.8 285.8 47 285.9 47.2 291.4 47.2 291.4 46.8 285.9 46.8"/>
+      <rect x="297.2" y="49.4" width=".4" height="5.4" transform="translate(13.7 155.6) rotate(-30)"/>
+      <polygon points="379.1 46.1 379.2 45.9 379.4 45.9 383.6 53.2 383.4 53.6 379.1 46.1"/>
+      <rect x="382.5" y="45.5" width=".4" height="6.8" transform="translate(26.8 197.8) rotate(-30)"/>
+      <polygon points="383.6 53.2 383.4 53.6 392.3 53.6 392 53.2 383.6 53.2"/>
+      <polygon points="392.3 53.6 392 53.2 396.3 45.9 396.7 45.9 392.3 53.6"/>
+      <rect x="389.5" y="48.7" width="6.8" height=".4" transform="translate(154.2 364.9) rotate(-60)"/>
+      <polygon points="396.7 45.9 396.3 45.9 392 38.6 392.3 38.3 396.7 45.9"/>
+      <polygon points="383.4 38.3 383.6 38.6 392 38.6 392.3 38.3 383.4 38.3"/>
+      <rect x="384.4" y="39.8" width="6.8" height=".4"/>
+      <polygon points="383.4 38.3 383.6 38.6 379.4 45.9 379.2 45.9 379.1 45.8 383.4 38.3"/>
+      <text class="cls-5" transform="translate(368.2 48.1)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="373.6 45.8 373.6 46.1 379.1 46.1 379.2 45.9 379.1 45.8 373.6 45.8"/>
+      <rect x="364.9" y="50.9" width="5.4" height=".4" transform="translate(139.7 344) rotate(-60)"/>
+      <polygon points="393.7 37.6 392.1 36.7 392.3 36.4 393.8 37.3 393.7 37.6"/>
+      <polygon points="393.2 35.3 394.4 36 394.5 35.6 393.4 35 393.2 35.3"/>
+      <polygon points="394.3 33.9 395.1 34.3 395.2 34 394.5 33.6 394.3 33.9"/>
+      <polygon points="395.3 32.5 395.7 32.7 395.9 32.4 395.6 32.2 395.3 32.5"/>
+      <polygon points="396.6 30.8 396.3 31.2 405.2 31.2 405 30.8 396.6 30.8"/>
+      <polygon points="405.7 32.4 405.9 32.7 406.2 32.5 406 32.2 405.7 32.4"/>
+      <polygon points="406.4 34 406.5 34.3 407.3 33.9 407.1 33.6 406.4 34"/>
+      <polygon points="407.1 35.6 407.2 36 408.4 35.3 408.2 35 407.1 35.6"/>
+      <polygon points="407.8 37.3 409.2 36.4 409.5 36.7 407.9 37.6 407.8 37.3"/>
+      <polygon points="409.3 38.3 409.5 38.6 405.3 45.9 404.9 45.9 409.3 38.3"/>
+      <polygon points="404.9 45.9 405.3 45.9 409.5 53.2 409.3 53.6 404.9 45.9"/>
+      <rect x="408.4" y="45.5" width=".4" height="6.8" transform="translate(30.2 210.7) rotate(-30)"/>
+      <polygon points="409.5 53.2 409.3 53.6 418.2 53.6 418 53.2 409.5 53.2"/>
+      <polygon points="418.2 53.6 418 53.2 422.2 45.9 422.4 45.9 422.5 46.1 418.2 53.6"/>
+      <rect x="415.5" y="48.7" width="6.8" height=".4" transform="translate(167.2 387.3) rotate(-60)"/>
+      <polygon points="422.5 45.8 422.4 45.9 422.2 45.9 418 38.6 418.2 38.3 422.5 45.8"/>
+      <polygon points="409.3 38.3 409.5 38.6 418 38.6 418.2 38.3 409.3 38.3"/>
+      <rect x="410.3" y="39.8" width="6.8" height=".4"/>
+      <text class="cls-5" transform="translate(428.7 48.1)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="422.5 45.8 422.4 45.9 422.5 46.1 428 46.1 428 45.8 422.5 45.8"/>
+      <rect x="433.8" y="48.4" width=".4" height="5.4" transform="translate(32.5 223.7) rotate(-30)"/>
+      <text class="cls-5" transform="translate(398.6 19.8)"><tspan x="0" y="0">N</tspan></text>
+      <polygon points="405.2 31.2 405 30.8 407.6 22.8 408 22.7 405.2 31.2"/>
+      <polygon points="408 22.7 407.6 22.8 403.6 19.9 403.8 19.6 408 22.7"/>
+      <polygon points="397.8 19.7 398 20 394 22.8 393.6 22.7 397.8 19.7"/>
+      <polygon points="393.6 22.7 394 22.8 396.6 30.8 396.3 31.2 393.6 22.7"/>
+      <rect x="400.6" y="9" width=".4" height="5.5"/>
+      <polygon points="549.4 35 549.4 43.4 549.6 43.5 549.7 43.4 549.7 35 549.6 34.9 549.4 35"/>
+      <rect x="547.8" y="35.8" width=".4" height="6.8"/>
+      <polygon points="549.5 43.7 549.6 43.5 549.7 43.5 555.7 49.5 555.7 49.6 555.5 49.7 549.5 43.7"/>
+      <polygon points="555.7 49.5 555.7 49.6 555.8 49.8 564.2 49.8 564.3 49.6 564.2 49.5 555.7 49.5"/>
+      <polygon points="564.5 49.7 564.3 49.6 564.2 49.5 570.2 43.5 570.4 43.5 570.5 43.7 564.5 49.7"/>
+      <polygon points="570.2 35 570.2 43.5 570.4 43.5 570.6 43.4 570.6 35 570.4 34.9 570.2 35"/>
+      <rect x="571.8" y="35.8" width=".4" height="6.8"/>
+      <polygon points="570.5 34.7 570.4 34.9 570.2 35 564.2 29 564.3 28.8 564.5 28.7 570.5 34.7"/>
+      <polygon points="556 28.6 555.7 28.8 555.7 29 564.2 29 564.3 28.8 564 28.6 556 28.6"/>
+      <rect x="556.3" y="30.2" width="7.4" height=".4"/>
+      <polygon points="555.5 28.7 555.7 28.8 555.7 29 549.7 35 549.6 34.9 549.5 34.7 555.5 28.7"/>
+      <polygon points="549.5 34.7 549.6 34.9 549.4 35 542.1 30.8 542.1 30.4 549.5 34.7"/>
+      <polygon points="542.1 30.4 542.1 30.8 534.8 35 534.4 34.8 542.1 30.4"/>
+      <rect x="535.7" y="33.9" width="6.8" height=".4" transform="translate(55.1 274) rotate(-30)"/>
+      <polygon points="534.4 43.4 534.6 43.5 534.8 43.4 534.8 35 534.4 34.8 534.4 43.4"/>
+      <polygon points="534.6 43.7 534.6 43.5 534.8 43.4 542.1 47.6 542.1 48.1 534.6 43.7"/>
+      <rect x="538.9" y="40.9" width=".4" height="6.8" transform="translate(231.3 489.2) rotate(-60)"/>
+      <polygon points="542.1 48.1 542.1 47.6 549.4 43.4 549.6 43.5 549.5 43.7 542.1 48.1"/>
+      <polygon points="570.5 43.7 570.4 43.5 570.6 43.4 577.9 47.6 577.9 48.1 570.5 43.7"/>
+      <polygon points="577.9 48.1 577.9 47.6 585.2 43.4 585.4 43.5 585.4 43.7 577.9 48.1"/>
+      <rect x="577.4" y="44.2" width="6.8" height=".4" transform="translate(55.6 296.2) rotate(-30)"/>
+      <polygon points="585.2 35 585.2 43.4 585.4 43.5 585.6 43.4 585.6 34.8 585.2 35"/>
+      <polygon points="585.6 34.8 585.2 35 577.9 30.8 577.9 30.4 585.6 34.8"/>
+      <rect x="580.7" y="30.6" width=".4" height="6.8" transform="translate(261.1 520.2) rotate(-60)"/>
+      <polygon points="577.9 30.4 577.9 30.8 570.6 35 570.4 34.9 570.5 34.7 577.9 30.4"/>
+      <text class="cls-5" transform="translate(557.8 65.1)"><tspan x="0" y="0">N</tspan></text>
+      <polygon points="555.5 49.7 555.7 49.6 555.8 49.8 553.8 58.2 552.2 57.5 555.5 49.7"/>
+      <polygon points="552.2 57.5 553.8 58.2 557.2 60.7 557 60.9 552.2 57.5"/>
+      <polygon points="563 61 562.8 60.7 566.2 58.2 567.8 57.5 563 61"/>
+      <polygon points="567.8 57.5 566.2 58.2 564.2 49.8 564.3 49.6 564.5 49.7 567.8 57.5"/>
+      <rect x="559.8" y="66" width=".4" height="5.5"/>
+      <polygon points="564.5 28.7 564.3 28.8 564 28.6 560 21.7 560 20.9 564.5 28.7"/>
+      <polygon points="560 20.9 560 21.7 556 28.6 555.7 28.8 555.5 28.7 560 20.9"/>
+      <text class="cls-5" transform="translate(557.7 14.8)"><tspan x="0" y="0">O</tspan></text>
+      <rect x="559" y="15.9" width=".4" height="6.8"/>
+      <rect x="560.6" y="15.9" width=".4" height="6.8"/>
+      <text class="cls-5" transform="translate(524.8 50)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="534.4 43.4 534.6 43.5 534.6 43.7 529.9 46.5 529.7 46.1 534.4 43.4"/>
+      <text class="cls-5" transform="translate(590.5 50)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="585.4 43.7 585.4 43.5 585.6 43.4 590.3 46.1 590.1 46.4 585.4 43.7"/>
+      <rect x="521.8" y="42.1" width=".4" height="5.5" transform="translate(222.3 474.6) rotate(-60)"/>
+      <rect x="595.2" y="44.7" width="5.5" height=".4" transform="translate(57.6 304.8) rotate(-30)"/>
+      <text class="cls-5" transform="translate(197.5 42.5)"><tspan x="0" y="0">H</tspan></text>
+      <text class="cls-7" transform="translate(201.8 43.8)"><tspan x="0" y="0">2</tspan></text>
+      <text class="cls-5" transform="translate(191.2 28.1)"><tspan x="0" y="0">Lindar </tspan></text>
+      <text class="cls-5" transform="translate(190.2 35.3)"><tspan x="0" y="0">catalyst</tspan></text>
+      <text class="cls-5" transform="translate(190.8 60.1)"><tspan x="0" y="0">r</tspan></text>
+      <text class="cls-5" transform="translate(192.5 60.1)"><tspan x="0" y="0">.t., 1h</tspan></text>
+      <text class="cls-5" transform="translate(192.3 67)"><tspan x="0" y="0">DCM</tspan></text>
+      <text class="cls-5" transform="translate(324.3 58.6)"><tspan x="0" y="0">LDA</tspan></text>
+      <text class="cls-5" transform="translate(319.3 65.5)"><tspan x="0" y="0">0 °C, 1h</tspan></text>
+      <text class="cls-5" transform="translate(324.3 72.4)"><tspan x="0" y="0">THF</tspan></text>
+      <text class="cls-5" transform="translate(470.1 56.4)"><tspan x="0" y="0">AlCl</tspan></text>
+      <text class="cls-7" transform="translate(481.1 57.7)"><tspan x="0" y="0">3</tspan></text>
+      <text class="cls-5" transform="translate(326.3 32.4)"><tspan x="0" y="0">N</tspan></text>
+      <text class="cls-7" transform="translate(330.6 30.2)"><tspan x="0" y="0">+</tspan></text>
+      <rect x="328.3" y="33.3" width=".4" height="5.3"/>
+      <rect x="320.6" y="32.9" width="5" height=".4" transform="translate(26.7 165.9) rotate(-30)"/>
+      <rect x="333.6" y="30.5" width=".4" height="5.1" transform="translate(138.3 305.6) rotate(-60)"/>
+      <text class="cls-5" transform="translate(326.1 23.5)"><tspan x="0" y="0">O</tspan></text>
+      <text class="cls-7" transform="translate(330.8 21.4)"><tspan x="0" y="0">-</tspan></text>
+      <rect x="328.3" y="24.6" width=".4" height="2.5"/>
+      <polygon points="476.5 25.6 476.8 25.5 476.8 25.9 472.8 32.8 472.4 33 472.3 32.9 476.5 25.6"/>
+      <polygon points="472.8 32.8 472.4 33 472.5 33.2 481 33.2 481.1 33 480.8 32.8 472.8 32.8"/>
+      <rect x="475.1" y="31.3" width="3.3" height=".4"/>
+      <polygon points="481.2 32.9 481.1 33 480.8 32.8 476.8 25.9 476.8 25.5 477 25.6 481.2 32.9"/>
+      <text class="cls-5" transform="translate(460 39.5)"><tspan x="0" y="0">Cl</tspan></text>
+      <polygon points="472.3 32.9 472.4 33 472.5 33.2 466.7 36.5 466.5 36.2 472.3 32.9"/>
+      <text class="cls-5" transform="translate(486.4 39.5)"><tspan x="0" y="0">Cl</tspan></text>
+      <polygon points="481 33.2 481.1 33 481.2 32.9 486.1 35.7 485.9 36 481 33.2"/>
+      <text class="cls-5" transform="translate(465.7 21.6)"><tspan x="0" y="0">Cl</tspan></text>
+      <polygon points="476.8 25.3 476.8 25.5 476.5 25.6 472.2 21.3 472.5 21 476.8 25.3"/>
+      <text class="cls-5" transform="translate(480.7 21.6)"><tspan x="0" y="0">Cl</tspan></text>
+      <polygon points="477 25.6 476.8 25.5 476.8 25.3 480.5 21.5 480.8 21.8 477 25.6"/>
+      <text class="cls-5" transform="translate(463.6 64.6)"><tspan x="0" y="0">-78°C, 3h</tspan></text>
+      <text class="cls-5" transform="translate(469.4 71.5)"><tspan x="0" y="0">DCM</tspan></text>
+      <polygon points="9.7 33.6 10.1 33.4 10.1 25 9.7 24.8 9.7 33.6"/>
+      <rect x="11.3" y="25.8" width=".4" height="6.8"/>
+      <polygon points="9.7 33.6 10.1 33.4 17.4 37.6 17.4 38 9.7 33.6"/>
+      <polygon points="17.4 38 17.4 37.6 24.7 33.4 24.9 33.5 24.9 33.7 17.4 38"/>
+      <rect x="16.9" y="34.1" width="6.8" height=".4" transform="translate(-14.4 14.8) rotate(-30)"/>
+      <polygon points="24.7 25 24.7 33.4 24.9 33.5 25.1 33.4 25.1 24.8 24.7 25"/>
+      <polygon points="25.1 24.8 24.7 25 17.4 20.7 17.4 20.5 17.6 20.4 25.1 24.8"/>
+      <rect x="20.2" y="20.6" width=".4" height="6.8" transform="translate(-10.6 29.7) rotate(-60)"/>
+      <polygon points="17.2 20.4 17.4 20.5 17.4 20.7 10.1 25 9.7 24.8 17.2 20.4"/>
+      <polygon points="9.9 77.8 10.3 77.6 10.3 69.2 9.9 69 9.9 77.8"/>
+      <rect x="11.5" y="70" width=".4" height="6.8"/>
+      <polygon points="9.9 77.8 10.3 77.6 17.6 81.8 17.6 82.2 9.9 77.8"/>
+      <polygon points="17.6 82.2 17.6 81.8 24.9 77.6 25 77.7 25 77.9 17.6 82.2"/>
+      <rect x="17.1" y="78.3" width="6.8" height=".4" transform="translate(-36.5 20.8) rotate(-30)"/>
+      <polygon points="24.9 69.2 24.9 77.6 25 77.7 25.2 77.6 25.2 69 24.9 69.2"/>
+      <polygon points="25.2 69 24.9 69.2 17.6 64.9 17.6 64.7 17.7 64.6 25.2 69"/>
+      <rect x="20.3" y="64.8" width=".4" height="6.8" transform="translate(-48.8 51.9) rotate(-60)"/>
+      <polygon points="17.4 64.6 17.6 64.7 17.6 64.9 10.3 69.2 9.9 69 17.4 64.6"/>
+      <text class="cls-5" transform="translate(15.2 58.3)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="17.4 59.3 17.4 64.6 17.6 64.7 17.7 64.6 17.7 59.3 17.4 59.3"/>
+      <text class="cls-5" transform="translate(15.1 14.1)"><tspan x="0" y="0">O</tspan></text>
+      <polygon points="17.2 15.1 17.2 20.4 17.4 20.5 17.6 20.4 17.6 15.1 17.2 15.1"/>
+      <rect x="12.1" y="6.2" width=".4" height="5.5" transform="translate(-1.6 15.1) rotate(-60)"/>
+      <rect x="12.3" y="50.4" width=".4" height="5.5" transform="translate(-39.8 37.4) rotate(-60)"/>
+      <text class="cls-5" transform="translate(31.7 84.1)"><tspan x="0" y="0">I</tspan></text>
+      <polygon points="25 77.9 25 77.7 25.2 77.6 30.9 80.9 30.7 81.2 25 77.9"/>
+      <polygon points="24.9 33.7 24.9 33.5 25.1 33.4 32.5 37.7 32.3 38 24.9 33.7"/>
+      <rect x="36.7" y="34.3" width=".4" height="8.6" transform="translate(-15 51.3) rotate(-60)"/>
+      <rect x="35.9" y="35.7" width=".4" height="8.6" transform="translate(-16.6 51.3) rotate(-60)"/>
+      <rect x="35.1" y="37" width=".4" height="8.6" transform="translate(-18.1 51.3) rotate(-60)"/>
+      <text class="cls-5" transform="translate(40.3 20.4)"><tspan x="0" y="0">Sonogashira coupling</tspan></text>
+      <text class="cls-5" transform="translate(55.3 34.2)"><tspan x="0" y="0">Pd(PPh</tspan></text>
+      <text class="cls-7" transform="translate(75.9 35.4)"><tspan x="0" y="0">3</tspan></text>
+      <text class="cls-5" transform="translate(78.4 34.2)"><tspan x="0" y="0">)</tspan></text>
+      <text class="cls-7" transform="translate(80.4 35.4)"><tspan x="0" y="0">4</tspan></text>
+      <text class="cls-5" transform="translate(53.8 41.1)"><tspan x="0" y="0">CuI, DIPEA</tspan></text>
+      <text class="cls-5" transform="translate(54.7 59.6)"><tspan x="0" y="0">reflux, 24h</tspan></text>
+      <text class="cls-5" transform="translate(62.9 66.5)"><tspan x="0" y="0">THF</tspan></text>
+      <line class="cls-2" x1="50.8" y1="48.2" x2="85.6" y2="48.2"/>
+      <polygon class="cls-6" points="84.2 50 85 48.2 84.2 46.3 88.6 48.2 84.2 50"/>
+      <line class="cls-2" x1="181.5" y1="48.2" x2="216.3" y2="48.2"/>
+      <polygon class="cls-6" points="214.8 50 215.6 48.2 214.8 46.3 219.2 48.2 214.8 50"/>
+      <line class="cls-2" x1="310.6" y1="48.1" x2="345.3" y2="48.1"/>
+      <polygon class="cls-6" points="343.9 50 344.7 48.1 343.9 46.3 348.3 48.1 343.9 50"/>
+      <line class="cls-2" x1="458.3" y1="48.1" x2="493.1" y2="48.1"/>
+      <polygon class="cls-6" points="491.6 50 492.4 48.1 491.6 46.3 496 48.1 491.6 50"/>
+      <text class="cls-3" transform="translate(587.8 15.9)"><tspan x="0" y="0">2.1</tspan></text>
+      <text class="cls-5" transform="translate(506.8 7.5)"><tspan x="0" y="0">Photo Pyrrolidine </tspan></text>
+      <text class="cls-5" transform="translate(506.8 14.7)"><tspan x="0" y="0">DMBO</tspan></text>
+      <g class="cls-8">
+        <text class="cls-4" transform="translate(1.5 7.2)"><tspan x="0" y="0">a</tspan></text>
+        <text class="cls-4" transform="translate(181.5 7.2)"><tspan x="0" y="0">b</tspan></text>
+        <text class="cls-4" transform="translate(310.6 7.2)"><tspan x="0" y="0">c</tspan></text>
+        <text class="cls-4" transform="translate(458.3 7.2)"><tspan x="0" y="0">d</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -6,6 +6,9 @@
 
 ---
 
+![Alt text](./pyrrolidine-DMBO_synthesis.svg)
+
+
 ## 🧪 Summary
 
 This repository contains the complete dataset, analysis scripts, and chemical structure files supporting our manuscript on the synthesis and evaluation of a pyrrolidine-fused dibenzocyclooctyne (DMBO) derivative. 
